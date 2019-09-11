@@ -1,4 +1,4 @@
-to setup
+to setup                                  ; testing this model is fun
   clear-all
   create-turtles 10 [
     forward 5
